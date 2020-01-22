@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-github: is_project_page: false
+github:
+is_project_page: false
 
 title: Weird Wings
 description: What's weird and wonderful in the world of aviation.
