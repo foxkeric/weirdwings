@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
-github:
-is_project_page: false
 
 title: Weird Wings
 description: What's weird and wonderful in the world of aviation.
+
+#This section replaces standard URLs in the GitHub Pages theme
+repository_url: http://www.weirdwings.com
